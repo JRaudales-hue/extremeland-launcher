@@ -1,0 +1,29 @@
+name: Build launcher (unsigned)
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "*.cs"
+      - "build.ps1"
+      - "logo.png"
+      - ".github/workflows/build.yml"
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: windows-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Compile public sources
+        shell: pwsh
+        run: ./build.ps1
+      - name: Preserve unsigned build for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: ExtremeLandLauncher-unsigned
+          path: build-output/*
+          retention-days: 7
+          if-no-files-found: error
