@@ -1,0 +1,8 @@
+name = "jei-15.56.0.205.jar"
+filename = "mods/jei-15.56.0.205.jar"
+side = "client"
+
+[download]
+url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.0.3/jei-15.56.0.205.jar"
+hash-format = "sha256"
+hash = "6b251e60a4719c874da89d750af97aa6498f6f4475e3ae79cb1288c7bf0cb65c"

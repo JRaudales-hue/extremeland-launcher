@@ -1,0 +1,8 @@
+name = "dedsafio3-extremeland-1.1.3.jar"
+filename = "mods/dedsafio3-extremeland-1.1.3.jar"
+side = "client"
+
+[download]
+url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.0.4/dedsafio3-extremeland-1.1.3.jar"
+hash-format = "sha256"
+hash = "d5b6dfeba111415f20e372a4290ed4dfa87bfe643a4f179ae9a0e98b444e463a"

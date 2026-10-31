@@ -1,0 +1,8 @@
+name = "extremeland-2.0.4.jar"
+filename = "mods/extremeland-2.0.4.jar"
+side = "client"
+
+[download]
+url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.0.4/extremeland-2.0.4.jar"
+hash-format = "sha256"
+hash = "e259b59edaf26dd42091d6eed7e49f0e491a1b286ce55a9b5149865f246e86e7"

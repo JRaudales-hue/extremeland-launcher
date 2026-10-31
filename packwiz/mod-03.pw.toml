@@ -1,0 +1,8 @@
+name = "Essential_1-5-1_forge_1-20-1.jar"
+filename = "mods/Essential_1-5-1_forge_1-20-1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.0.3/Essential_1-5-1_forge_1-20-1.jar"
+hash-format = "sha256"
+hash = "4d2933c9048ae41da2a6271a5121456200bd2325762588d71b54f33e37632ca6"

@@ -1,0 +1,8 @@
+name = "jade-11.13.3+forge.jar"
+filename = "mods/jade-11.13.3+forge.jar"
+side = "client"
+
+[download]
+url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.0.3/jade-11.13.3%2Bforge.jar"
+hash-format = "sha256"
+hash = "a632c77975e5aedff6322b0072f8b0db3f5d4bf914df6bdcc87d1aea4d5f55f4"

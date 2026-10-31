@@ -1,0 +1,8 @@
+name = "xaeroworldmap-1.39.9.jar"
+filename = "mods/xaeroworldmap-1.39.9.jar"
+side = "client"
+
+[download]
+url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.0.3/xaeroworldmap-1.39.9.jar"
+hash-format = "sha256"
+hash = "b73c03b760b720dc30284d5cf3bbc8e3409414225a987ebc2d02794327fa3ff3"

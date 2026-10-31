@@ -1,0 +1,8 @@
+name = "xaerominimap-25.2.10.jar"
+filename = "mods/xaerominimap-25.2.10.jar"
+side = "client"
+
+[download]
+url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.0.3/xaerominimap-25.2.10.jar"
+hash-format = "sha256"
+hash = "2b5de085275d658e0445d783dbbcf9848c00aab8ac18cc2f664a62f44f78a18a"

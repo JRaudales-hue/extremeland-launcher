@@ -1,0 +1,8 @@
+name = "voicechat-forge-1.20.1-2.6.22.jar"
+filename = "mods/voicechat-forge-1.20.1-2.6.22.jar"
+side = "client"
+
+[download]
+url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.0.3/voicechat-forge-1.20.1-2.6.22.jar"
+hash-format = "sha256"
+hash = "727d31c11905be6af05686c619dd62a1ed4e451c47670cf5e9804c1ac8871386"

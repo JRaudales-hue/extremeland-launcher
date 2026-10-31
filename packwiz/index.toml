@@ -1,0 +1,56 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mod-01.pw.toml"
+hash = "248cab7575a6190811d807eef464235e19e2d7a3b49b05a3d5b6d5966f139b28"
+metafile = true
+
+[[files]]
+file = "mod-02.pw.toml"
+hash = "f2a7710fc56b22ec6548c86d923bd0650a96e758f6e7e0a79c257b7113009171"
+metafile = true
+
+[[files]]
+file = "mod-03.pw.toml"
+hash = "245895e1d6749313007ae0bc4ed90ff50ee7520593f9a68f9efd57681a4ed331"
+metafile = true
+
+[[files]]
+file = "mod-04.pw.toml"
+hash = "059d485ac8fbd93f0fb5dced7199dc050d1788913f9c80c8826fd14775ab3490"
+metafile = true
+
+[[files]]
+file = "mod-05.pw.toml"
+hash = "26be3d909a770e3b350df59c05153f185ec070202a77a1939b00103dc26e3b9d"
+metafile = true
+
+[[files]]
+file = "mod-06.pw.toml"
+hash = "0cc8be46682af121317839038b8d59e002e19086c1c903ab393e8b47e14813d9"
+metafile = true
+
+[[files]]
+file = "mod-07.pw.toml"
+hash = "7e7bc5d1530ad723b33fa272d0a25266a7ce26ae14a86eba05b5a3884fcfa097"
+metafile = true
+
+[[files]]
+file = "mod-08.pw.toml"
+hash = "27e8d8b4b704efad78892dafe7b18e155ed10bcd3b4c991aba31be363c945c66"
+metafile = true
+
+[[files]]
+file = "mod-09.pw.toml"
+hash = "5393b3a26b7f989dc2a82b8696260011a1d04c8f750b7bcbfc4eec5fcaab9f33"
+metafile = true
+
+[[files]]
+file = "mod-10.pw.toml"
+hash = "584e71f80e598cdf385ec4ccbad56148f1d41cc801c41f36e15bca62e9452588"
+metafile = true
+
+[[files]]
+file = "mod-11.pw.toml"
+hash = "13851310cdd6bc9d158c6e5ab6ab7de913d4a9c2b3dbc301f6c691a064f1ae6f"
+metafile = true

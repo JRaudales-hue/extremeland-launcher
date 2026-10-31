@@ -1,0 +1,8 @@
+name = "MenuDED3-0.0.0.jar"
+filename = "mods/MenuDED3-0.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.0.3/MenuDED3-0.0.0.jar"
+hash-format = "sha256"
+hash = "f3b7777f718498a0d1acd07de8d10f93f18ad99b0441a68d828ca4dc45f5f387"
