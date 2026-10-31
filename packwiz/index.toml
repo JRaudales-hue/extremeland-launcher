@@ -54,3 +54,8 @@ metafile = true
 file = "mod-11.pw.toml"
 hash = "13851310cdd6bc9d158c6e5ab6ab7de913d4a9c2b3dbc301f6c691a064f1ae6f"
 metafile = true
+
+[[files]]
+file = "mod-12.pw.toml"
+hash = "90bf7fac1f1607663060b9d899957342c739e9220d4ed429b7366eea297fc726"
+metafile = true

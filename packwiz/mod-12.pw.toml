@@ -1,0 +1,8 @@
+name = "extremeland-presentacion-1.0.0.jar"
+filename = "mods/extremeland-presentacion-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.0.5/extremeland-presentacion-1.0.0.jar"
+hash-format = "sha256"
+hash = "a624efda233deec70c1ebde950e0e32d738b098919d63b7e8b840ddc06cca012"
