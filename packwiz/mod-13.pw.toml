@@ -1,0 +1,8 @@
+name = "immersive-portals-3.0.7-all.jar"
+filename = "mods/immersive-portals-3.0.7-all.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zf4Szzx2/versions/Q6Z7eOLL/immersive-portals-3.0.7-all.jar"
+hash-format = "sha256"
+hash = "deb233d1e530e5e208ba6f3529a3b90ad071a06a2dc8d7ea60f14b0d67912efc"
