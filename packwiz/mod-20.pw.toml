@@ -1,0 +1,8 @@
+name = "CustomPlayerModels-1.20-0.6.27a.jar"
+filename = "mods/CustomPlayerModels-1.20-0.6.27a.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/h1E7sQNL/versions/BZZSHBbA/CustomPlayerModels-1.20-0.6.27a.jar"
+hash-format = "sha256"
+hash = "f4964fb5b008eea1401853c6ba19a623b5fd6f10e3e14c77d686d999a0bb7c42"
