@@ -1,0 +1,8 @@
+name = "extremeland-menu-misiones-1.0.0.jar"
+filename = "mods/extremeland-menu-misiones-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.2.2/extremeland-menu-misiones-1.0.0.jar"
+hash-format = "sha256"
+hash = "5a3d7ad043c0cc1abcf0a707b43e657a17d5455eca192cc93b7712fd721e8cb0"
