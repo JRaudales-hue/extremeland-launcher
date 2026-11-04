@@ -1,0 +1,8 @@
+name = "modernfix-forge-5.27.91+mc1.20.1.jar"
+filename = "mods/modernfix-forge-5.27.91+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.3.0/modernfix-forge-5.27.91%2Bmc1.20.1.jar"
+hash-format = "sha256"
+hash = "b42fe87fd5ffa46f7db56c6cee01b08dea362baf4cc56a70db40d928773b5000"

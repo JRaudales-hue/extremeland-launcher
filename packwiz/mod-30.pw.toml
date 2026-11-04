@@ -1,0 +1,8 @@
+name = "extremeland-cofres-1.0.1.jar"
+filename = "mods/extremeland-cofres-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.3.0/extremeland-cofres-1.0.1.jar"
+hash-format = "sha256"
+hash = "8d85ee7582f2343cc8da4f80c8a354f0d2a75a4a73dd312f7473c6b67886f585"
