@@ -1,8 +1,8 @@
-name = "extremeland-2.3.0.jar"
-filename = "mods/extremeland-2.3.0.jar"
+name = "extremeland-2.4.0.jar"
+filename = "mods/extremeland-2.4.0.jar"
 side = "client"
 
 [download]
-url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.3.0/extremeland-2.3.0.jar"
+url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.4.0/extremeland-2.4.0.jar"
 hash-format = "sha256"
-hash = "8c6db557b9ed4b825b02b0e2767dedfa9dfbd9f68b5af857cf1694cca484c71f"
+hash = "c0a34d7ae6e5d5c06270f06c8c223fe5901fc230d2057e3e274d9e5e75eae10e"
