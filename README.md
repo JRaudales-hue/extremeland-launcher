@@ -1,14 +1,18 @@
 # ExtremeLand · La Rueda Rota
 
-Perfil gratuito para **Prism Launcher**, Minecraft Java **1.20.1** y Forge **47.2.0**. Antes de jugar, packwiz comprueba y actualiza los 11 mods publicados para la serie.
+Perfil gratuito para **Prism Launcher**, Minecraft Java **1.20.1** y Forge **47.2.0**. Packwiz comprueba y actualiza los 32 mods publicados antes de jugar.
+
+**Si ya tienes ExtremeLand:** cierra Minecraft e inicia la misma instancia de Prism. Se actualizará a 2.5.0; el nombre de la instancia puede seguir diciendo 2.0.4. Abre tu mundo habitual para conservar el progreso.
+
+## Instalación nueva
 
 1. Instala [Prism Launcher oficial](https://prismlauncher.org/download/).
-2. [Descarga el perfil ExtremeLand](https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.0.4/ExtremeLand-Prism-2.0.4.zip).
+2. [Descarga el perfil ExtremeLand](https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.0.4/ExtremeLand-Prism-2.0.4.zip). Este perfil inicial recibe las actualizaciones al arrancar.
 3. En Prism, selecciona **Agregar instancia → Importar desde ZIP** y elige el archivo.
 4. Agrega tu propia cuenta Microsoft con Minecraft Java comprado y abre el perfil.
 5. El anfitrión abre su mundo y comparte la partida mediante Essential. Los invitados aceptan su invitación.
 
-La primera descarga de mods ocupa aproximadamente 1,6 GB, además de Minecraft, Forge y Java. El ZIP no contiene mundos ni cuentas. Los jugadores no necesitan una cuenta de GitHub.
+El mod principal ocupa aproximadamente 1,9 GB; la instalación inicial descarga además los otros mods, Minecraft, Forge y Java. El ZIP no contiene mundos ni cuentas. Los jugadores no necesitan una cuenta de GitHub.
 
 ## Actualizaciones
 
@@ -18,11 +22,13 @@ Jefferson debe probar y publicar cada actualización; guardar cambios en MCreato
 
 ## Continuar una partida existente
 
-Con Minecraft cerrado, copia la carpeta de tu mundo desde `saves` del perfil anterior a `saves` del perfil de Prism. Conserva el original. Tu primo no necesita copiar el mundo: se conecta al anfitrión mediante Essential.
+Si ya juegas desde esta instancia de Prism, abre tu mundo habitual después de actualizar. Solo si vienes de otro perfil: con Minecraft cerrado, copia la carpeta del mundo desde `saves` del perfil anterior a `saves` del perfil de Prism y conserva el original. Tu primo se conecta al anfitrión mediante Essential.
 
 ## Estado
 
-Versión 2.0.4. Incluye el giro continuo del casino y la secuencia original de animación y música del Momento Rojo. Se verificaron los manifiestos públicos, los SHA-256 de los 11 mods, la descarga del ZIP y la reparación automática de un mod faltante. Queda pendiente comprobar el acceso con la cuenta Microsoft y jugar desde Prism.
+Versión [2.5.0](https://github.com/JRaudales-hue/extremeland-launcher/releases/tag/pack-2.5.0). Campaña de 15 días con 75 misiones secundarias, 11 personajes revisados y 31 cinemáticas animadas. Casino comprobado con giro, frenado y cobro único; Momento Rojo con animación y música original. Pasaron 94 pruebas y las verificaciones del cliente y de los archivos públicos.
+
+[Guía de los 15 días y comandos](https://github.com/JRaudales-hue/extremeland-launcher/releases/download/pack-2.5.0/Guia-15-dias.md).
 
 El anterior `ExtremeLandLauncher.exe` queda archivado: Windows lo bloquea por editor no verificado y SignPath Foundation rechazó la solicitud gratuita. No es necesario para usar este perfil y no hay que desactivar las protecciones de Windows.
 
