@@ -1,12 +1,12 @@
 name = "ExtremeLand - La Rueda Rota"
 author = "Jefferson"
-version = "2.6.0"
+version = "2.6.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "02e45921285257cdeac768c711b86d37614b8a586a1bf665015cd7de94905538"
+hash = "4129a9648145c1a4b19d473f164bf7406548b61764de70c7c2009f211f11d3ec"
 
 [versions]
 minecraft = "1.20.1"
