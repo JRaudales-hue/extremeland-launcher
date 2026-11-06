@@ -159,3 +159,147 @@ metafile = true
 file = "mod-32.pw.toml"
 hash = "ab779947d2eed1529eccb2b6152e2bfb97252f4566ba3cf99d317d0cae20a674"
 metafile = true
+
+[[files]]
+file = "emotes/comunidad_bow1.json"
+hash = "b4fda1c66eb925f5c7a398eec5c5d2356334b651309f4c460bdee435264f9678"
+
+[[files]]
+file = "emotes/comunidad_campfire_sit1.json"
+hash = "21f0870a3db57d9db4442bc96cd3d0f275b940e311b58f99c3644420fb57f188"
+
+[[files]]
+file = "emotes/comunidad_club_penguin_dance.json"
+hash = "91aeba791641240d734179fb8ed3365fa113aaf472144dc5c4f392ee048ebc26"
+
+[[files]]
+file = "emotes/comunidad_cool_sit.json"
+hash = "00ea3c4adc6c77cfcffafbba0c3fe44394f050860dfed78cc1fea8fa6970ba6a"
+
+[[files]]
+file = "emotes/comunidad_cross.json"
+hash = "5b7a997c01df8cc4e6fee0447956e7553899316af632b65145a98d81877d919f"
+
+[[files]]
+file = "emotes/comunidad_dab.json"
+hash = "f30e429e892b16311593d595b7c8fa10cade0561a742f4ba2aa1693472fdc76e"
+
+[[files]]
+file = "emotes/comunidad_do_eternal_rest_and_respawn.json"
+hash = "aa9f8d6ca98dcbaca21ff365e6c382c69c9a98751c834bb80ffe834fafe2b747"
+
+[[files]]
+file = "emotes/comunidad_f.json"
+hash = "935ab98322109d4ab3b5594173543c9c46437218be99b1758f904bc4db117ede"
+
+[[files]]
+file = "emotes/comunidad_floss_dance3.json"
+hash = "c58ff8ebc9ddfb104f954921575cc8ea8bc391d839cb84783ba8a57f3e7c5eea"
+
+[[files]]
+file = "emotes/comunidad_grace.json"
+hash = "51b645e73319d07693af9a0ee0ced9450393c1aa5dd61c4a984de38c3211504e"
+
+[[files]]
+file = "emotes/comunidad_headball.json"
+hash = "0c579f45c449a41a5a7ccec221fdbcf69b420fd3a08c74d77895f48200caff09"
+
+[[files]]
+file = "emotes/comunidad_headspin.json"
+hash = "dc3b8be9ff5eb29ba9cb4967da12efcd8630434902ea8e6e087c7a5951b943d5"
+
+[[files]]
+file = "emotes/comunidad_headyeet.json"
+hash = "70bde525c1f074ef9158a2ee64df064dc236535d2231a6753b58c6e9a33799c1"
+
+[[files]]
+file = "emotes/comunidad_heart.json"
+hash = "0bdc9fa48329088c2f1aea471fce9af5e1e4a572729a438f32faf2f4e4e2792d"
+
+[[files]]
+file = "emotes/comunidad_hearthands.json"
+hash = "cd9b425dfcdb4a43c33a8ceac6f89ae83076624ba250afba50a416687b0fe61a"
+
+[[files]]
+file = "emotes/comunidad_hug.json"
+hash = "d1bb293d36d004fc728ed9c1cfefe238e84e77cbe8afa53f387eaae52f6b1531"
+
+[[files]]
+file = "emotes/comunidad_hunchback.json"
+hash = "e521ed5634aa953333ac1db2d556d57b9df80b4128186b51946f6802e3ab6424"
+
+[[files]]
+file = "emotes/comunidad_inspect.json"
+hash = "d1d070ffc05b8a25b5e221ac3620d6cd769fc7c4f1621664f9a6913da7840663"
+
+[[files]]
+file = "emotes/comunidad_item.json"
+hash = "1f6a20861a087420f452da13b13423856e64aea3a4494e06c98d2feaf1b0e6bd"
+
+[[files]]
+file = "emotes/comunidad_jump.json"
+hash = "6caf2f98732ad6c2aa088d8c7fe6f6b09257661298979698397e73d9cd152ef7"
+
+[[files]]
+file = "emotes/comunidad_jumping_jacks.json"
+hash = "65714e9dc6f46da3045aa346abb4022cd81f6014c04e3a7b586f188178faa6ee"
+
+[[files]]
+file = "emotes/comunidad_lay_down5.json"
+hash = "c4d18b8359744e348641ac8a9bd115edd25921d3040c5ff361dcf78acf786840"
+
+[[files]]
+file = "emotes/comunidad_lean.json"
+hash = "94cd2440ecf27c0d7ec0c97a9cbcbc68a9040b1055230287796487aeb9b42b44"
+
+[[files]]
+file = "emotes/comunidad_lookaround.json"
+hash = "77bb9f6ab288eae6c1afe2a5a115482ea25e6e540670e3c7faca5e11d361fe2b"
+
+[[files]]
+file = "emotes/comunidad_make_gestures.json"
+hash = "fc7fa7e1b7e7b95fdaceb2cef3ea5c95ac28b78501a4cbcd8dfe52fc230269e3"
+
+[[files]]
+file = "emotes/comunidad_meditation_fly.json"
+hash = "d8f546d1ad3d567e3f93d5ae15b525c922bcde7fae1559436acd1e2b1fdd4909"
+
+[[files]]
+file = "emotes/comunidad_meeting.json"
+hash = "44a5f6ff0fa3d455a78d9a9058d204356090f9542a67e76bd16d9499ef230e29"
+
+[[files]]
+file = "emotes/comunidad_narutonew.json"
+hash = "564f870144a63e0adda2f93ae5da68410a0fbdc7a718909291e6d5d7a97bb5c3"
+
+[[files]]
+file = "emotes/comunidad_nervous.json"
+hash = "7fd37c4a3120d3b76e0ec711e9c7efeca6ccae2fb33125f06c8fdd2530dbef5c"
+
+[[files]]
+file = "emotes/comunidad_orange_justice.json"
+hash = "9fc76c73bcfc65e08d34eeb5be18ebd9c348f87559007127d7e09b0f6c5e8395"
+
+[[files]]
+file = "emotes/comunidad_penguin.json"
+hash = "0719a6d4e593ace446e2001658674424bff1965790877861939d39ee49bd360d"
+
+[[files]]
+file = "emotes/comunidad_selfie.json"
+hash = "8854e458a2b2f021b394ca9c64d9c6e6f993a89bd79bc09a33525dd72830ffa0"
+
+[[files]]
+file = "emotes/comunidad_shake.json"
+hash = "b245cf659e58d5c7906719c01b701d4e0d26f7e495bfe9d3d299edf8025d76d8"
+
+[[files]]
+file = "emotes/comunidad_take_the_l.json"
+hash = "8a41337862388ff29b436a74a8eec7828ea05afdd0efe14d3f9040a45598ff2a"
+
+[[files]]
+file = "emotes/comunidad_tpose.json"
+hash = "e81cd74ece1639d5d8dd2077c39f2de0a1880ce1d2aafa0fe7b51641aa40ab94"
+
+[[files]]
+file = "emotes/comunidad_twerk.json"
+hash = "2fb9fcebee765eb561199508b5f1c7381e54cad8b132eb65e345f31006b91970"
