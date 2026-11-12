@@ -1,8 +1,8 @@
-name = "extremeland-menu-misiones-1.4.3.jar"
-filename = "mods/extremeland-menu-misiones-1.4.3.jar"
+name = "extremeland-menu-misiones-1.4.4.jar"
+filename = "mods/extremeland-menu-misiones-1.4.4.jar"
 side = "client"
 
 [download]
-url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/menu-1.4.3/extremeland-menu-misiones-1.4.3.jar"
+url = "https://github.com/JRaudales-hue/extremeland-launcher/releases/download/menu-1.4.4/extremeland-menu-misiones-1.4.4.jar"
 hash-format = "sha256"
-hash = "dca82a5d258a8b0f1562de7ad4699e7d585d79842832ab908eaa5ae6fe5d39d0"
+hash = "df78d0c90975737f1d62c0fe166f00e966b7a9815b0e3c8edf96158344fd4f7e"
